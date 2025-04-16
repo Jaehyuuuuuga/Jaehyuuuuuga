@@ -5,6 +5,16 @@
   
 </div>
 
+## 🎓 Experience
+
+|Period|Contents|Organization|
+|:--:|:-------------:|:-----:|
+|2025.03 ~ present| Deep Learning, VILS |Kookmin Univ. IVSP Lab |
+|2024.07 ~ 2025.02| 인턴활동 |Kookmin Univ. IVSP Lab |
+|2023.01 ~ 2023.03|   자율주행 기술 스터디   |  사미용두  |
+|2022.12 ~ 2023.10|자율주행 판단팀 팀장|Hanyang Univ ERICA. **Baqu4** 
+|2022.02 ~ 2024.03|   Student Researcher, Research Institute   |  ESSYS Co.  |
+|2019.03 ~ 2024.02|Major in Robotics & Convergence|Hanyang Univ ERICA|
 
 ## Hi there 👋
 
