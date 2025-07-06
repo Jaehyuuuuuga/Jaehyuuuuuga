@@ -16,7 +16,7 @@
 |2022.02 ~ <br>2024.03|   Student Researcher, Research Institute   |  **ESSYS Co.**  |
 |2019.03 ~ <br>2024.02|B.S. in Robotics and Convergence|**Hanyang Univ. ERICA**|
 
-## Hi there 👋
+
 
 <!--
 **Jaehyuuuuuga/Jaehyuuuuuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
