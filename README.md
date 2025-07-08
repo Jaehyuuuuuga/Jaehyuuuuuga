@@ -16,6 +16,7 @@
 |2022.02 ~ <br>2024.03|   Student Researcher, Research Institute   |  **ESSYS Co.**  |
 |2019.03 ~ <br>2024.02|B.S. in Robotics and Convergence|**Hanyang Univ. ERICA**|
 
+##
 
 
 <!--
