@@ -1,13 +1,13 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Fake%20it%20till%20you%20make%20it&stroke=BC8DFF&fontColor=000000&fontSize=45&strokeWidth=0&desc=Jaehyeok's%20Github&descAlign=68&descSize=20)
+<!--  ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Fake%20it%20till%20you%20make%20it&stroke=BC8DFF&fontColor=000000&fontSize=45&strokeWidth=0&desc=Jaehyeok's%20Github&descAlign=68&descSize=20)
   
 </div>
 
 ## 🎓 Experience
 
-|Period|	<div align="center">Role & Activities </div> |Organization|
+<!--|Period|	<div align="center">Role & Activities </div> |Organization|
 |:--:|:-------------|:-----:|
 |2025.03 ~ <br>present| Research on Deep Learning, Autonomous Driving VILS Platform |**IVSP Lab, Kookmin Univ**|
 |2024.07 ~ <br>2025.02| **Internship** <br> - Designed and evaluated Pure Pursuit and Stanley controllers using CarMaker <br> - Drafted system requirements for a remote-controlled commercial vehicle platform<br> - Built ROS + LiDAR-based simulation environment integrated with CarMaker |**IVSP Lab, Kookmin Univ**|
